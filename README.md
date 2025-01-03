@@ -24,7 +24,7 @@ I'm a Computer Engineering student specializing in Artificial Intelligence and M
 ## 📫 **Get in Touch:**  
 - **LinkedIn:** [https://www.linkedin.com/in/mohamed-hisham-6a0874268/](https://www.linkedin.com/in/mohamed-hisham-6a0874268/)  
 - **Kaggle:** [https://www.kaggle.com/hamoi9](https://www.kaggle.com/hamoi9)  
-- **Email:** mohamed.hishamk90@gmail.com  
+- **Email:** mohamed.hishamk0@gmail.com  
 
 ---
 
