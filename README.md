@@ -9,7 +9,7 @@ I'm a Computer Engineering student specializing in Artificial Intelligence and M
 - **Artificial Intelligence (AI):** Machine Learning, Deep Learning, NLP  
 - **Data Science:** Data Visualization, and Preprocessing  
 - **Programming:** Python, C/C++  
-- **Frameworks & Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, NLTK, Spacy  
+- **Frameworks & Libraries:** Scikit-learn, TensorFlow,  PyTorch, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, NLTK, Spacy  
 - **Software Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
 
 ---
