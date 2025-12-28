@@ -56,16 +56,22 @@ Passionate about **Deep Learning, NLP, Computer Vision, and Competitive Programm
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedh0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedh0&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedh0&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="600"/>
+  
+<img width="70%" src="https://streak-stats.demolab.com/?user=Mohamedh0&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedh0&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
+  
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedh0&theme=radical&hide_border=false&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+
 </div>
 
 ---
@@ -90,6 +96,16 @@ skills = {
     "Soft Skills": ["Team Collaboration", "Technical Writing", "Research"]
 }
 ```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Mohamedh0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+</div>
 
 ---
 
