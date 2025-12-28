@@ -1,32 +1,50 @@
-# 👨‍💻 **Mohamed Hisham**  
+# 👨‍💻 Mohamed Hisham  
 
-## Welcome! 👋  
-I'm a Computer Engineering student specializing in Artificial Intelligence and Machine Learning. Passionate about Machine Learning, Deep Learning, NLP, Computer Vision and Competitive Programming. I continuously strive to improve my skills through hands-on projects, internships, and self-learning.  
-
----
-
-## 🛠 **Skills:**  
-- **Artificial Intelligence (AI):** Machine Learning, Deep Learning, NLP, Computer Vision  
-- **Data Science:** Data Visualization, and Preprocessing  
-- **Programming:** Python, C/C++, JavaScript 
-- **Frameworks & Libraries:** Scikit-learn, TensorFlow,  PyTorch, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, NLTK, Spacy, LangChain  
-- **Software Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
+## 🚀 Welcome to My Space!  
+I'm a **Computer Engineering student** specializing in **Artificial Intelligence & Machine Learning**.  
+Passionate about **Deep Learning, NLP, Computer Vision, and Competitive Programming**, I thrive on building robust solutions and learning through hands-on projects, internships, and self-driven exploration.  
 
 ---
 
-## 🎯 **Goals:**  
-- Deepen my knowledge in AI and Data Science  
-- Contribute to open-source projects  
-- Build innovative solutions that solve real-world problems  
+## 🛠 Tech Toolbox  
+### 🤖 Artificial Intelligence  
+- Machine Learning, Deep Learning, NLP, Computer Vision  
+
+### 📊 Data Science  
+- Data Visualization, Preprocessing, Feature Engineering  
+
+### 💻 Programming  
+- Python | C/C++ | JavaScript  
+
+### ⚡ Frameworks & Libraries  
+- **ML/DL:** TensorFlow, PyTorch, Scikit-learn  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
+- **CV/NLP:** OpenCV, NLTK, Spacy, LangChain  
+
+### 🧰 Tools & Platforms  
+- Jupyter Notebook, Google Colab, Git/GitHub, Docker  
 
 ---
 
-## 📫 **Get in Touch:**  
-- **LinkedIn:** [Mohamed El-Bialy](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)
-- **Kaggle:** [hamoi9](https://www.kaggle.com/hamoi9)  
-- **Email:** mohamed.hishamk0@gmail.com  
+## 🌐 Connect With Me  
+- 💼 [LinkedIn – Mohamed El-Bialy](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)  
+- 📊 [Kaggle – hamoi9](https://www.kaggle.com/hamoi9)  
+- 📧 **Email:** mohamed.hishamk0@gmail.com  
 
 ---
 
-## 📈 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical)  
+## 📈 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedh0&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🎯 Fun Extras  
+- 🔥 Always exploring **AI for real-world impact**  
+- 🎨 Love blending **technical rigor with creative storytelling**  
+- 🏆 Competitive programmer with a passion for problem-solving  
+
+---
+✨ *“Building AI systems that are not only smart, but also robust, explainable, and impactful.”*  
