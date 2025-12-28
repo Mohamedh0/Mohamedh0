@@ -33,10 +33,13 @@ Passionate about **Deep Learning, NLP, Computer Vision, and Competitive Programm
 
 ---
 
-## 📈 GitHub Analytics  
+## 🔥 GitHub Streak & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedh0&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedh0&theme=radical" alt="GitHub Streak Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedh0&theme=radical" alt="GitHub Activity Graph" height="250"/>
 </p>
 
 ---
