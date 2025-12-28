@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamoi9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hishamk0@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedh0&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -53,24 +54,20 @@ Passionate about **Deep Learning, NLP, Computer Vision, and Competitive Programm
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedh0&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedh0&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
 
-</div>
+### 📈 Contribution Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedh0&theme=radical)
 
-<div align="center">
-  
-<img width="70%" src="https://streak-stats.demolab.com/?user=Mohamedh0&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+### 💻 GitHub Metrics
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamedh0&theme=radical" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamedh0&theme=radical" />
 
-</div>
-
-<div align="center">
-  
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedh0&theme=radical&hide_border=false&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+### 📊 Activity Overview
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedh0&theme=radical" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamedh0&theme=radical" />
 
 </div>
 
@@ -99,11 +96,11 @@ skills = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Mohamedh0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+![](https://github-profile-trophy.vercel.app/?username=Mohamedh0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -119,8 +116,6 @@ Feel free to reach out!
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedh0&color=blueviolet&style=for-the-badge)
 
 ⭐️ From [Mohamedh0](https://github.com/Mohamedh0)
 
