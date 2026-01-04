@@ -2,12 +2,11 @@
   
 # 👨‍💻 Mohamed Hisham
 
-### Computer Engineering Student | AI & ML Specialist
+### Computer Engineering Student | AI & ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamoi9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hishamk0@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedh0&color=blueviolet&style=flat-square)
 
 </div>
 
