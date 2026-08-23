@@ -2,7 +2,7 @@
   
 # 👨‍💻 Mohamed Hisham
 
-### Computer Engineering Student | AI & ML Engineer
+### AI & ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bialy-6a0874268/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamoi9)
